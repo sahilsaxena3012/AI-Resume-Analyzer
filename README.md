@@ -1,5 +1,7 @@
 # AI Resume Analyzer
 
+🔗 Live Demo: https://ai-resume-analyzer-ct3a.vercel.app/
+
 AI-powered resume analysis platform built with React, TypeScript, and Puter.
 
 Upload resumes and receive ATS scoring, resume feedback, and performance insights through a modern dashboard interface.
